@@ -1,0 +1,24 @@
+{
+    "results": [
+        {
+            "file_name": "my_photos/image1.png",
+            "num_detections": 1
+        },
+        {
+            "file_name": "my_photos/image2.png",
+            "num_detections": 2
+        },
+        {
+            "file_name": "my_photos/image3.png",
+            "num_detections": 9
+        },
+        {
+            "file_name": "my_photos/image4.png",
+            "num_detections": 1
+        },
+        {
+            "file_name": "my_photos/image5.png",
+            "num_detections": 1
+        }
+    ]
+}
